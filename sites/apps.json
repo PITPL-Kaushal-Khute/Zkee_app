@@ -1,0 +1,31 @@
+{
+    "frappe": {
+        "resolution": {
+            "commit_hash": null,
+            "branch": null
+        },
+        "required": [],
+        "idx": 1,
+        "version": "13.51.2"
+    },
+    "erpnext": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "6e492ec514cbc97d9ce8ca7ce8989f7b78e891e5",
+            "branch": "version-13"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "13.49.5"
+    },
+    "zkee_custom_app": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "f937495fecc97f995b5a8e46db78dc9b46940eb2",
+            "branch": "master"
+        },
+        "required": [],
+        "idx": 3,
+        "version": "0.0.1"
+    }
+}

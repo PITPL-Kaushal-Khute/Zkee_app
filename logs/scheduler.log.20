@@ -1,0 +1,777 @@
+2023-04-04 11:39:44,784 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 11:40:45,032 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 11:40:45,121 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 11:40:45,364 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 11:40:45,434 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 11:40:45,659 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 11:40:45,727 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 11:40:45,916 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 11:40:45,997 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 11:40:46,280 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 11:40:46,395 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 11:40:46,669 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 11:40:46,785 INFO scheduler Scheduled Job Start: frappe.monitor.flush for zkee.com
+2023-04-04 11:40:46,976 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for zkee.com
+2023-04-04 11:40:47,048 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 11:40:47,226 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 11:40:47,294 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 11:40:47,559 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 11:40:47,629 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 11:40:47,928 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 11:40:47,993 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 11:40:48,264 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 11:40:48,330 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for zkee.com
+2023-04-04 11:40:48,597 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for zkee.com
+2023-04-04 11:41:45,419 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 11:42:45,663 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 11:43:45,887 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 11:44:46,141 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 11:44:46,239 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 11:44:46,450 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 11:44:46,536 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 11:44:46,855 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 11:44:46,922 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 11:44:47,115 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 11:44:47,180 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 11:44:47,574 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 11:44:47,650 INFO scheduler Scheduled Job Start: frappe.monitor.flush for zkee.com
+2023-04-04 11:44:47,820 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for zkee.com
+2023-04-04 11:44:47,886 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 11:44:48,070 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 11:44:48,163 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 11:44:48,486 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 11:44:48,560 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 11:44:48,798 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 11:44:48,864 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 11:44:49,125 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 11:44:49,190 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for zkee.com
+2023-04-04 11:44:49,398 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for zkee.com
+2023-04-04 11:45:46,576 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 11:45:46,615 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 11:45:46,860 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 11:45:47,003 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for zkee.com
+2023-04-04 11:45:47,275 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for zkee.com
+2023-04-04 11:45:47,373 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for zkee.com
+2023-04-04 11:45:47,937 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for zkee.com
+2023-04-04 11:45:48,065 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for zkee.com
+2023-04-04 11:45:48,322 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for zkee.com
+2023-04-04 11:46:46,907 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 11:47:47,136 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 11:48:47,379 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 11:48:47,450 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 11:48:47,635 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 11:48:47,701 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 11:48:47,900 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 11:48:47,966 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 11:48:48,169 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 11:48:48,239 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 11:48:48,493 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 11:48:48,563 INFO scheduler Scheduled Job Start: frappe.monitor.flush for zkee.com
+2023-04-04 11:48:48,730 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for zkee.com
+2023-04-04 11:48:48,803 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 11:48:48,989 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 11:48:49,058 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 11:48:49,261 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 11:48:49,331 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 11:48:49,546 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 11:48:49,612 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 11:48:49,876 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 11:48:49,946 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for zkee.com
+2023-04-04 11:48:50,139 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for zkee.com
+2023-04-04 11:49:47,748 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 11:50:47,986 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 11:50:47,992 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 11:50:48,287 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 11:51:48,271 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 11:52:48,539 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 11:52:48,613 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 11:52:48,781 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 11:52:48,843 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 11:52:49,194 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 11:52:49,292 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 11:52:49,550 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 11:52:49,632 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 11:52:49,972 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 11:52:50,040 INFO scheduler Scheduled Job Start: frappe.monitor.flush for zkee.com
+2023-04-04 11:52:50,212 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for zkee.com
+2023-04-04 11:52:50,281 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 11:52:50,462 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 11:52:50,535 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 11:52:50,746 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 11:52:50,818 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 11:52:51,188 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 11:52:51,263 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 11:52:51,536 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 11:52:51,602 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for zkee.com
+2023-04-04 11:52:51,777 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for zkee.com
+2023-04-04 11:53:48,886 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 11:54:49,135 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 11:55:49,398 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 11:55:49,414 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 11:55:49,701 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 11:56:49,677 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 11:56:49,783 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 11:56:49,968 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 11:56:50,045 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 11:56:50,281 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 11:56:50,357 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 11:56:50,668 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 11:56:50,745 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 11:56:51,029 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 11:56:51,113 INFO scheduler Scheduled Job Start: frappe.monitor.flush for zkee.com
+2023-04-04 11:56:51,280 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for zkee.com
+2023-04-04 11:56:51,359 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 11:56:51,555 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 11:56:51,632 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 11:56:51,859 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 11:56:51,935 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 11:56:52,184 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 11:56:52,263 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 11:56:52,551 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 11:56:52,702 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for zkee.com
+2023-04-04 11:56:52,895 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for zkee.com
+2023-04-04 11:57:50,094 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 11:58:50,318 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 11:59:50,615 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:00:50,797 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for zkee.com
+2023-04-04 12:00:51,248 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:00:51,317 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for zkee.com
+2023-04-04 12:00:51,519 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for zkee.com
+2023-04-04 12:00:52,102 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for zkee.com
+2023-04-04 12:00:52,563 INFO scheduler Scheduled Job Start: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for zkee.com
+2023-04-04 12:00:53,060 INFO scheduler Scheduled Job Complete: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for zkee.com
+2023-04-04 12:00:53,212 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.collect_project_status for zkee.com
+2023-04-04 12:00:53,669 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.collect_project_status for zkee.com
+2023-04-04 12:00:53,862 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.hourly_reminder for zkee.com
+2023-04-04 12:00:54,283 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.hourly_reminder for zkee.com
+2023-04-04 12:00:54,463 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for zkee.com
+2023-04-04 12:00:55,000 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for zkee.com
+2023-04-04 12:00:55,177 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for zkee.com
+2023-04-04 12:00:55,603 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for zkee.com
+2023-04-04 12:00:55,779 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for zkee.com
+2023-04-04 12:00:56,203 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for zkee.com
+2023-04-04 12:00:56,643 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:00:57,168 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:00:57,241 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:00:57,851 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:00:58,095 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:00:58,608 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:00:58,808 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:00:59,606 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:00:59,992 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for zkee.com
+2023-04-04 12:01:00,700 INFO scheduler Scheduled Job Complete: erpnext.utilities.doctype.video.video.update_youtube_data for zkee.com
+2023-04-04 12:01:01,154 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 12:01:02,122 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 12:01:02,881 INFO scheduler Scheduled Job Start: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for zkee.com
+2023-04-04 12:01:04,281 INFO scheduler Scheduled Job Complete: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for zkee.com
+2023-04-04 12:01:05,003 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.google_calendar.google_calendar.sync for zkee.com
+2023-04-04 12:01:07,554 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.google_calendar.google_calendar.sync for zkee.com
+2023-04-04 12:01:07,966 INFO scheduler Scheduled Job Start: frappe.desk.form.document_follow.send_hourly_updates for zkee.com
+2023-04-04 12:01:09,236 INFO scheduler Scheduled Job Complete: frappe.desk.form.document_follow.send_hourly_updates for zkee.com
+2023-04-04 12:01:09,701 INFO scheduler Scheduled Job Start: frappe.deferred_insert.save_to_db for zkee.com
+2023-04-04 12:01:12,995 INFO scheduler Scheduled Job Complete: frappe.deferred_insert.save_to_db for zkee.com
+2023-04-04 12:01:13,256 INFO scheduler Scheduled Job Start: frappe.desk.page.backups.backups.delete_downloadable_backups for zkee.com
+2023-04-04 12:01:13,769 INFO scheduler Scheduled Job Complete: frappe.desk.page.backups.backups.delete_downloadable_backups for zkee.com
+2023-04-04 12:01:14,104 INFO scheduler Scheduled Job Start: frappe.utils.error.collect_error_snapshots for zkee.com
+2023-04-04 12:01:16,264 INFO scheduler Scheduled Job Complete: frappe.utils.error.collect_error_snapshots for zkee.com
+2023-04-04 12:01:16,724 INFO scheduler Scheduled Job Start: frappe.model.utils.user_settings.sync_user_settings for zkee.com
+2023-04-04 12:01:17,522 INFO scheduler Scheduled Job Complete: frappe.model.utils.user_settings.sync_user_settings for zkee.com
+2023-04-04 12:01:17,936 INFO scheduler Scheduled Job Start: frappe.model.utils.link_count.update_link_count for zkee.com
+2023-04-04 12:01:18,681 INFO scheduler Scheduled Job Complete: frappe.model.utils.link_count.update_link_count for zkee.com
+2023-04-04 12:01:19,331 INFO scheduler Scheduled Job Start: frappe.monitor.flush for zkee.com
+2023-04-04 12:01:19,800 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for zkee.com
+2023-04-04 12:01:20,175 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:01:20,571 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:01:20,956 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:01:21,562 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:01:22,073 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:01:22,784 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:01:23,209 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:01:23,830 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:01:24,176 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for zkee.com
+2023-04-04 12:01:24,613 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for zkee.com
+2023-04-04 12:01:24,825 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for zkee.com
+2023-04-04 12:01:26,049 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for zkee.com
+2023-04-04 12:01:26,518 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for zkee.com
+2023-04-04 12:01:27,358 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for zkee.com
+2023-04-04 12:01:27,783 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for zkee.com
+2023-04-04 12:01:28,748 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for zkee.com
+2023-04-04 12:01:29,167 INFO scheduler Scheduled Job Start: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for zkee.com
+2023-04-04 12:01:30,799 INFO scheduler Scheduled Job Complete: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for zkee.com
+2023-04-04 12:01:31,212 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.subscription.subscription.process_all for zkee.com
+2023-04-04 12:01:32,459 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.subscription.subscription.process_all for zkee.com
+2023-04-04 12:01:55,314 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:02:55,531 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:03:55,747 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:04:56,062 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:04:56,167 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:04:56,336 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:04:56,409 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:04:56,642 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:04:56,711 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:04:56,888 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:04:56,960 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:04:57,316 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:04:57,401 INFO scheduler Scheduled Job Start: frappe.monitor.flush for zkee.com
+2023-04-04 12:04:57,574 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for zkee.com
+2023-04-04 12:04:57,643 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:04:57,816 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:04:57,885 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:04:58,076 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:04:58,142 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:04:58,398 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:04:58,464 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:04:58,779 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:04:58,855 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for zkee.com
+2023-04-04 12:04:59,092 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for zkee.com
+2023-04-04 12:05:56,441 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 12:05:56,463 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:05:56,696 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 12:06:56,822 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:07:57,053 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:08:57,290 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:08:57,370 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:08:57,536 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:08:57,610 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:08:57,854 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:08:57,929 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:08:58,111 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:08:58,189 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:08:58,531 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:08:58,602 INFO scheduler Scheduled Job Start: frappe.monitor.flush for zkee.com
+2023-04-04 12:08:58,812 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for zkee.com
+2023-04-04 12:08:58,882 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:08:59,096 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:08:59,171 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:08:59,382 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:08:59,453 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:08:59,705 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:08:59,795 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:09:00,264 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:09:00,340 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for zkee.com
+2023-04-04 12:09:00,572 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for zkee.com
+2023-04-04 12:09:57,642 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:10:57,887 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 12:10:57,900 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:10:58,167 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 12:11:58,178 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:12:58,437 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:12:58,507 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:12:58,681 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:12:58,751 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:12:58,970 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:12:59,035 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:12:59,240 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:12:59,309 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:12:59,624 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:12:59,697 INFO scheduler Scheduled Job Start: frappe.monitor.flush for zkee.com
+2023-04-04 12:12:59,897 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for zkee.com
+2023-04-04 12:12:59,967 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:13:00,114 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:13:00,180 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:13:00,384 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:13:00,453 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:13:00,695 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:13:00,777 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:13:01,081 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:13:01,167 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for zkee.com
+2023-04-04 12:13:01,380 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for zkee.com
+2023-04-04 12:13:58,781 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:14:59,032 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:15:59,317 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 12:15:59,343 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:15:59,620 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 12:15:59,740 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for zkee.com
+2023-04-04 12:16:00,049 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for zkee.com
+2023-04-04 12:16:00,161 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for zkee.com
+2023-04-04 12:16:00,537 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for zkee.com
+2023-04-04 12:16:00,654 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for zkee.com
+2023-04-04 12:16:00,954 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for zkee.com
+2023-04-04 12:16:59,774 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:16:59,957 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:17:00,171 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:17:00,274 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:17:00,640 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:17:00,757 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:17:01,052 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:17:01,159 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:17:01,575 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:17:01,680 INFO scheduler Scheduled Job Start: frappe.monitor.flush for zkee.com
+2023-04-04 12:17:01,951 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for zkee.com
+2023-04-04 12:17:02,051 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:17:02,352 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:17:02,478 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:17:02,756 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:17:02,853 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:17:03,192 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:17:03,282 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:17:03,651 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:17:03,754 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for zkee.com
+2023-04-04 12:17:04,025 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for zkee.com
+2023-04-04 12:18:00,208 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:19:00,440 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:20:00,666 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:20:00,746 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:20:00,915 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:20:00,988 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:20:01,213 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:20:01,300 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:20:01,652 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:20:01,741 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:20:02,142 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:20:02,237 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 12:20:02,540 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 12:20:02,655 INFO scheduler Scheduled Job Start: frappe.monitor.flush for zkee.com
+2023-04-04 12:20:02,860 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for zkee.com
+2023-04-04 12:20:02,929 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:20:03,094 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:20:03,157 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:20:03,347 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:20:03,432 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:20:03,842 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:20:03,930 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:20:04,244 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:20:04,324 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for zkee.com
+2023-04-04 12:20:04,534 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for zkee.com
+2023-04-04 12:21:01,004 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:22:01,229 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:23:01,534 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:24:01,794 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:24:01,893 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:24:02,051 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:24:02,122 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:24:02,352 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:24:02,423 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:24:02,711 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:24:02,786 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:24:03,080 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:24:03,152 INFO scheduler Scheduled Job Start: frappe.monitor.flush for zkee.com
+2023-04-04 12:24:03,326 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for zkee.com
+2023-04-04 12:24:03,401 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:24:03,593 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:24:03,663 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:24:03,865 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:24:03,936 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:24:04,164 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:24:04,239 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:24:04,526 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:24:04,600 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for zkee.com
+2023-04-04 12:24:04,832 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for zkee.com
+2023-04-04 12:25:02,171 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 12:25:02,183 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:25:02,468 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 12:26:02,451 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:27:02,676 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:28:02,911 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:28:02,969 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:28:03,132 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:28:03,196 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:28:03,384 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:28:03,448 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:28:03,623 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:28:03,683 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:28:03,923 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:28:04,081 INFO scheduler Scheduled Job Start: frappe.monitor.flush for zkee.com
+2023-04-04 12:28:04,228 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for zkee.com
+2023-04-04 12:28:04,294 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:28:04,444 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:28:04,508 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:28:04,678 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:28:04,742 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:28:04,956 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:28:05,020 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:28:05,259 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:28:05,322 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for zkee.com
+2023-04-04 12:28:05,491 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for zkee.com
+2023-04-04 12:29:03,242 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:30:03,490 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for zkee.com
+2023-04-04 12:30:03,527 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:30:03,800 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for zkee.com
+2023-04-04 12:30:03,915 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for zkee.com
+2023-04-04 12:30:04,218 INFO scheduler Scheduled Job Complete: erpnext.utilities.doctype.video.video.update_youtube_data for zkee.com
+2023-04-04 12:30:04,329 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 12:30:04,577 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 12:30:04,686 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for zkee.com
+2023-04-04 12:30:04,945 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for zkee.com
+2023-04-04 12:30:05,037 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for zkee.com
+2023-04-04 12:30:05,334 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for zkee.com
+2023-04-04 12:30:05,444 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for zkee.com
+2023-04-04 12:30:05,711 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for zkee.com
+2023-04-04 12:31:03,765 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:32:04,002 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:32:04,088 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:32:04,277 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:32:04,347 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:32:04,581 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:32:04,652 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:32:04,845 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:32:04,916 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:32:05,189 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:32:05,256 INFO scheduler Scheduled Job Start: frappe.monitor.flush for zkee.com
+2023-04-04 12:32:05,433 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for zkee.com
+2023-04-04 12:32:05,512 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:32:05,683 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:32:05,759 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:32:05,954 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:32:06,026 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:32:06,241 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:32:06,312 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:32:06,581 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:32:06,644 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for zkee.com
+2023-04-04 12:32:06,808 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for zkee.com
+2023-04-04 12:33:04,336 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:34:04,572 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:35:04,901 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 12:35:04,915 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:35:05,281 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 12:36:05,181 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:36:05,267 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:36:05,425 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:36:05,488 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:36:05,690 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:36:05,755 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:36:06,011 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:36:06,078 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:36:06,330 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:36:06,392 INFO scheduler Scheduled Job Start: frappe.monitor.flush for zkee.com
+2023-04-04 12:36:06,550 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for zkee.com
+2023-04-04 12:36:06,612 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:36:06,767 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:36:06,831 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:36:07,067 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:36:07,131 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:36:07,347 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:36:07,413 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:36:07,665 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:36:07,731 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for zkee.com
+2023-04-04 12:36:07,898 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for zkee.com
+2023-04-04 12:37:05,518 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:38:05,749 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:39:06,015 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:40:06,260 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:40:06,360 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:40:06,517 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:40:06,587 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:40:06,786 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:40:06,864 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:40:07,039 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:40:07,105 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:40:07,392 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:40:07,467 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 12:40:07,873 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 12:40:07,997 INFO scheduler Scheduled Job Start: frappe.monitor.flush for zkee.com
+2023-04-04 12:40:08,152 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for zkee.com
+2023-04-04 12:40:08,219 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:40:08,378 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:40:08,447 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:40:08,631 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:40:08,697 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:40:08,934 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:40:08,996 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:40:09,282 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:40:09,376 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for zkee.com
+2023-04-04 12:40:09,585 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for zkee.com
+2023-04-04 12:41:06,640 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:42:06,873 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:43:07,198 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:44:07,450 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:44:07,536 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:44:07,719 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:44:07,837 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:44:08,052 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:44:08,118 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:44:08,369 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:44:08,437 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:44:08,734 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:44:08,796 INFO scheduler Scheduled Job Start: frappe.monitor.flush for zkee.com
+2023-04-04 12:44:08,977 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for zkee.com
+2023-04-04 12:44:09,042 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:44:09,195 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:44:09,262 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:44:09,456 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:44:09,522 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:44:09,734 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:44:09,796 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:44:10,154 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:44:10,221 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for zkee.com
+2023-04-04 12:44:10,392 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for zkee.com
+2023-04-04 12:45:07,810 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 12:45:07,843 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:45:08,082 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 12:45:08,315 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for zkee.com
+2023-04-04 12:45:08,625 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for zkee.com
+2023-04-04 12:45:08,731 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for zkee.com
+2023-04-04 12:45:09,063 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for zkee.com
+2023-04-04 12:45:09,180 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for zkee.com
+2023-04-04 12:45:09,459 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for zkee.com
+2023-04-04 12:46:08,124 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:47:08,354 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:48:08,692 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:48:08,990 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:48:09,156 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:48:09,221 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:48:09,429 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:48:09,492 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:48:09,684 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:48:09,756 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:48:10,057 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:48:10,135 INFO scheduler Scheduled Job Start: frappe.monitor.flush for zkee.com
+2023-04-04 12:48:10,326 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for zkee.com
+2023-04-04 12:48:10,410 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:48:10,605 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:48:10,744 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:48:11,014 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:48:11,078 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:48:11,306 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:48:11,378 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:48:11,652 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:48:11,744 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for zkee.com
+2023-04-04 12:48:11,960 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for zkee.com
+2023-04-04 12:49:09,242 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:50:09,481 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 12:50:09,484 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:50:09,749 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 12:51:09,730 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:52:09,972 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:52:10,032 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:52:10,199 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:52:10,262 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:52:10,475 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:52:10,545 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:52:10,731 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:52:10,804 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:52:11,058 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:52:11,123 INFO scheduler Scheduled Job Start: frappe.monitor.flush for zkee.com
+2023-04-04 12:52:11,293 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for zkee.com
+2023-04-04 12:52:11,360 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:52:11,509 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:52:11,576 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:52:11,770 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:52:11,836 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:52:12,040 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:52:12,111 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:52:12,411 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:52:12,475 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for zkee.com
+2023-04-04 12:52:12,633 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for zkee.com
+2023-04-04 12:53:10,293 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:54:10,557 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:55:10,835 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 12:55:10,847 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:55:11,100 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 12:56:11,108 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:56:11,193 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:56:11,368 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 12:56:11,441 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:56:11,738 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 12:56:11,804 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:56:12,027 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 12:56:12,113 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:56:12,367 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 12:56:12,437 INFO scheduler Scheduled Job Start: frappe.monitor.flush for zkee.com
+2023-04-04 12:56:12,595 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for zkee.com
+2023-04-04 12:56:12,663 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:56:12,820 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 12:56:12,890 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:56:13,133 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 12:56:13,200 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:56:13,419 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 12:56:13,484 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:56:13,736 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 12:56:13,804 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for zkee.com
+2023-04-04 12:56:13,984 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for zkee.com
+2023-04-04 12:57:11,443 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:58:11,666 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 12:59:11,877 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 13:00:12,137 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for zkee.com
+2023-04-04 13:00:12,704 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 13:00:12,771 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for zkee.com
+2023-04-04 13:00:12,921 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for zkee.com
+2023-04-04 13:00:13,609 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for zkee.com
+2023-04-04 13:00:13,770 INFO scheduler Scheduled Job Start: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for zkee.com
+2023-04-04 13:00:14,288 INFO scheduler Scheduled Job Complete: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for zkee.com
+2023-04-04 13:00:14,430 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.collect_project_status for zkee.com
+2023-04-04 13:00:14,881 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.collect_project_status for zkee.com
+2023-04-04 13:00:15,070 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.hourly_reminder for zkee.com
+2023-04-04 13:00:15,493 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.hourly_reminder for zkee.com
+2023-04-04 13:00:15,619 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for zkee.com
+2023-04-04 13:00:16,305 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for zkee.com
+2023-04-04 13:00:16,459 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for zkee.com
+2023-04-04 13:00:16,744 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for zkee.com
+2023-04-04 13:00:16,858 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for zkee.com
+2023-04-04 13:00:17,150 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for zkee.com
+2023-04-04 13:00:17,249 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 13:00:17,539 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 13:00:17,606 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 13:00:17,850 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 13:00:17,921 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 13:00:18,115 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 13:00:18,190 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 13:00:18,462 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 13:00:18,529 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for zkee.com
+2023-04-04 13:00:18,842 INFO scheduler Scheduled Job Complete: erpnext.utilities.doctype.video.video.update_youtube_data for zkee.com
+2023-04-04 13:00:18,940 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 13:00:19,197 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 13:00:19,303 INFO scheduler Scheduled Job Start: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for zkee.com
+2023-04-04 13:00:19,601 INFO scheduler Scheduled Job Complete: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for zkee.com
+2023-04-04 13:00:19,705 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.google_calendar.google_calendar.sync for zkee.com
+2023-04-04 13:00:20,057 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.google_calendar.google_calendar.sync for zkee.com
+2023-04-04 13:00:20,181 INFO scheduler Scheduled Job Start: frappe.desk.form.document_follow.send_hourly_updates for zkee.com
+2023-04-04 13:00:20,506 INFO scheduler Scheduled Job Complete: frappe.desk.form.document_follow.send_hourly_updates for zkee.com
+2023-04-04 13:00:20,635 INFO scheduler Scheduled Job Start: frappe.deferred_insert.save_to_db for zkee.com
+2023-04-04 13:00:21,274 INFO scheduler Scheduled Job Complete: frappe.deferred_insert.save_to_db for zkee.com
+2023-04-04 13:00:21,377 INFO scheduler Scheduled Job Start: frappe.desk.page.backups.backups.delete_downloadable_backups for zkee.com
+2023-04-04 13:00:21,640 INFO scheduler Scheduled Job Complete: frappe.desk.page.backups.backups.delete_downloadable_backups for zkee.com
+2023-04-04 13:00:21,751 INFO scheduler Scheduled Job Start: frappe.utils.error.collect_error_snapshots for zkee.com
+2023-04-04 13:00:22,099 INFO scheduler Scheduled Job Complete: frappe.utils.error.collect_error_snapshots for zkee.com
+2023-04-04 13:00:22,220 INFO scheduler Scheduled Job Start: frappe.model.utils.user_settings.sync_user_settings for zkee.com
+2023-04-04 13:00:22,539 INFO scheduler Scheduled Job Complete: frappe.model.utils.user_settings.sync_user_settings for zkee.com
+2023-04-04 13:00:22,662 INFO scheduler Scheduled Job Start: frappe.model.utils.link_count.update_link_count for zkee.com
+2023-04-04 13:00:23,015 INFO scheduler Scheduled Job Complete: frappe.model.utils.link_count.update_link_count for zkee.com
+2023-04-04 13:00:23,132 INFO scheduler Scheduled Job Start: frappe.monitor.flush for zkee.com
+2023-04-04 13:00:23,307 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for zkee.com
+2023-04-04 13:00:23,418 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 13:00:23,672 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 13:00:23,771 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 13:00:24,023 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 13:00:24,098 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 13:00:24,346 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 13:00:24,429 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 13:00:24,686 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 13:00:24,754 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for zkee.com
+2023-04-04 13:00:24,941 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for zkee.com
+2023-04-04 13:00:25,014 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for zkee.com
+2023-04-04 13:00:25,381 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for zkee.com
+2023-04-04 13:00:25,500 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for zkee.com
+2023-04-04 13:00:25,845 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for zkee.com
+2023-04-04 13:00:25,976 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for zkee.com
+2023-04-04 13:00:26,302 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for zkee.com
+2023-04-04 13:00:26,401 INFO scheduler Scheduled Job Start: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for zkee.com
+2023-04-04 13:00:26,686 INFO scheduler Scheduled Job Complete: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for zkee.com
+2023-04-04 13:00:26,793 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.subscription.subscription.process_all for zkee.com
+2023-04-04 13:00:27,089 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.subscription.subscription.process_all for zkee.com
+2023-04-04 13:01:13,015 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 13:02:13,452 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 13:03:13,756 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 13:04:14,007 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 13:04:14,088 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 13:04:14,368 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 13:04:14,434 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 13:04:14,738 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 13:04:14,803 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 13:04:15,080 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 13:04:15,200 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 13:04:15,663 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 13:04:15,729 INFO scheduler Scheduled Job Start: frappe.monitor.flush for zkee.com
+2023-04-04 13:04:15,891 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for zkee.com
+2023-04-04 13:04:15,956 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 13:04:16,167 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 13:04:16,228 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 13:04:16,492 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 13:04:16,554 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 13:04:16,850 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 13:04:16,913 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 13:04:17,172 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 13:04:17,238 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for zkee.com
+2023-04-04 13:04:17,405 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for zkee.com
+2023-04-04 13:05:14,344 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 13:05:14,355 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 13:05:14,671 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 13:06:14,607 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 13:07:14,845 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 13:08:15,094 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 13:08:15,163 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 13:08:15,401 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 13:08:15,463 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 13:08:15,658 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 13:08:15,727 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 13:08:15,900 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 13:08:15,964 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 13:08:16,220 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 13:08:16,284 INFO scheduler Scheduled Job Start: frappe.monitor.flush for zkee.com
+2023-04-04 13:08:16,482 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for zkee.com
+2023-04-04 13:08:16,544 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 13:08:16,699 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 13:08:16,769 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 13:08:16,951 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 13:08:17,017 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 13:08:17,241 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 13:08:17,307 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 13:08:17,711 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 13:08:17,780 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for zkee.com
+2023-04-04 13:08:17,947 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for zkee.com
+2023-04-04 13:09:15,433 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 13:10:15,684 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 13:10:15,686 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 13:10:15,951 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 13:11:15,937 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 13:12:16,171 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 13:12:16,234 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 13:12:16,385 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 13:12:16,451 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 13:12:16,653 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 13:12:16,720 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 13:12:16,893 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 13:12:16,954 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 13:12:17,195 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 13:12:17,263 INFO scheduler Scheduled Job Start: frappe.monitor.flush for zkee.com
+2023-04-04 13:12:17,416 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for zkee.com
+2023-04-04 13:12:17,477 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 13:12:17,633 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 13:12:17,697 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 13:12:17,876 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 13:12:17,944 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 13:12:18,155 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 13:12:18,218 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 13:12:18,460 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 13:12:18,524 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for zkee.com
+2023-04-04 13:12:18,688 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for zkee.com
+2023-04-04 13:13:16,490 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 13:14:16,715 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 13:15:16,949 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 13:15:16,963 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 13:15:17,195 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 13:15:17,300 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for zkee.com
+2023-04-04 13:15:17,559 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for zkee.com
+2023-04-04 13:15:17,657 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for zkee.com
+2023-04-04 13:15:17,968 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for zkee.com
+2023-04-04 13:15:18,073 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for zkee.com
+2023-04-04 13:15:18,374 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for zkee.com
+2023-04-04 13:16:17,210 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 13:16:17,282 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 13:16:17,445 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 13:16:17,508 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 13:16:17,709 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 13:16:17,773 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 13:16:17,954 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 13:16:18,019 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 13:16:18,262 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 13:16:18,325 INFO scheduler Scheduled Job Start: frappe.monitor.flush for zkee.com
+2023-04-04 13:16:18,482 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for zkee.com
+2023-04-04 13:16:18,550 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 13:16:18,708 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 13:16:18,773 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 13:16:18,950 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 13:16:19,013 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 13:16:19,230 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 13:16:19,296 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 13:16:19,532 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 13:16:19,599 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for zkee.com
+2023-04-04 13:16:19,770 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for zkee.com
+2023-04-04 13:17:17,537 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 13:18:17,763 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 13:19:17,992 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 13:20:18,240 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 13:20:18,297 DEBUG scheduler Queued events for site zkee.com
+2023-04-04 13:20:18,458 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for zkee.com
+2023-04-04 13:20:18,526 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 13:20:18,724 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for zkee.com
+2023-04-04 13:20:18,787 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 13:20:18,967 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for zkee.com
+2023-04-04 13:20:19,029 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 13:20:19,285 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for zkee.com
+2023-04-04 13:20:19,349 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 13:20:19,592 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for zkee.com
+2023-04-04 13:20:19,703 INFO scheduler Scheduled Job Start: frappe.monitor.flush for zkee.com
+2023-04-04 13:20:19,856 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for zkee.com
+2023-04-04 13:20:19,924 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 13:20:20,107 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com

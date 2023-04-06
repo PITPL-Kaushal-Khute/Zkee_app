@@ -1,0 +1,281 @@
+2023-03-22 10:50:12,504 DEBUG cd frappe-zkee && python3 -m venv env
+2023-03-22 10:50:16,567 DEBUG cd frappe-zkee && /home/kaushal/frappe-zkee/env/bin/python -m pip install --quiet --upgrade pip
+2023-03-22 10:50:19,046 DEBUG cd frappe-zkee && /home/kaushal/frappe-zkee/env/bin/python -m pip install --quiet wheel
+2023-03-22 10:50:21,176 LOG Getting frappe
+2023-03-22 10:50:21,176 DEBUG cd frappe-zkee/apps && git clone https://github.com/frappe/frappe.git --branch version-13 --depth 1 --origin upstream
+2023-03-22 10:50:26,300 LOG Installing frappe
+2023-03-22 10:50:26,300 DEBUG cd /home/kaushal/frappe-zkee && /home/kaushal/frappe-zkee/env/bin/python -m pip install --quiet --upgrade -e /home/kaushal/frappe-zkee/apps/frappe 
+2023-03-22 10:51:15,888 DEBUG cd /home/kaushal/frappe-zkee/apps/frappe && yarn install
+2023-03-22 11:05:18,198 DEBUG cd /home/kaushal/frappe-zkee && sudo supervisorctl restart frappe:
+2023-03-22 11:05:18,384 WARNING cd /home/kaushal/frappe-zkee && sudo supervisorctl restart frappe: executed with exit code 2
+2023-03-22 11:05:18,384 WARNING restarting supervisor failed. Use `bench restart` to retry.
+2023-03-22 11:05:18,384 DEBUG cd frappe-zkee && bench build
+2023-03-22 11:05:18,553 INFO /usr/local/bin/bench build
+2023-03-22 11:06:25,135 LOG setting up backups
+2023-03-22 11:06:25,259 LOG backups were set up
+2023-03-22 11:06:25,259 INFO Bench frappe-zkee initialized
+2023-03-22 11:06:45,864 INFO /usr/local/bin/bench new-site zkee.com
+2023-03-22 11:12:42,549 INFO /usr/local/bin/bench use zkee.com
+2023-03-22 11:12:51,629 INFO /usr/local/bin/bench get-app https://github.com/frappe/erpnext --branch version-13
+2023-03-22 11:12:51,639 LOG Getting erpnext
+2023-03-22 11:12:51,640 DEBUG cd ./apps && git clone https://github.com/frappe/erpnext --branch version-13 --depth 1 --origin upstream
+2023-03-22 11:12:57,972 LOG Installing erpnext
+2023-03-22 11:12:58,131 DEBUG cd /home/kaushal/frappe-zkee && /home/kaushal/frappe-zkee/env/bin/python -m pip install --quiet --upgrade -e /home/kaushal/frappe-zkee/apps/erpnext 
+2023-03-22 11:13:17,270 DEBUG cd /home/kaushal/frappe-zkee/apps/erpnext && yarn install
+2023-03-22 11:13:18,069 DEBUG bench build --app erpnext
+2023-03-22 11:13:18,169 INFO /usr/local/bin/bench build --app erpnext
+2023-03-22 11:13:40,313 DEBUG cd /home/kaushal/frappe-zkee && sudo supervisorctl restart frappe:
+2023-03-22 11:13:40,545 WARNING cd /home/kaushal/frappe-zkee && sudo supervisorctl restart frappe: executed with exit code 2
+2023-03-22 11:13:40,546 WARNING restarting supervisor failed. Use `bench restart` to retry.
+2023-03-22 11:16:05,800 INFO /usr/local/bin/bench --site zkee.com install-app erpnext
+2023-03-22 11:27:34,674 INFO /usr/local/bin/bench start
+2023-03-22 11:27:35,351 INFO /usr/local/bin/bench watch
+2023-03-22 11:27:35,378 INFO /usr/local/bin/bench schedule
+2023-03-22 11:27:35,390 INFO /usr/local/bin/bench serve --port 8003
+2023-03-22 11:27:35,399 INFO /usr/local/bin/bench worker
+2023-03-22 11:35:12,465 INFO /usr/local/bin/bench new-app zkee-custom-app
+2023-03-22 11:35:12,495 LOG creating new app zkee_custom_app
+2023-03-22 11:37:23,983 LOG Installing zkee_custom_app
+2023-03-22 11:37:23,984 DEBUG cd /home/kaushal/frappe-zkee && /home/kaushal/frappe-zkee/env/bin/python -m pip install --quiet --upgrade -e /home/kaushal/frappe-zkee/apps/zkee_custom_app 
+2023-03-22 11:37:28,263 DEBUG bench build --app zkee_custom_app
+2023-03-22 11:37:28,377 INFO /usr/local/bin/bench build --app zkee_custom_app
+2023-03-22 11:37:39,063 DEBUG cd /home/kaushal/frappe-zkee && sudo supervisorctl restart frappe:
+2023-03-22 11:37:39,252 WARNING cd /home/kaushal/frappe-zkee && sudo supervisorctl restart frappe: executed with exit code 2
+2023-03-22 11:37:39,252 WARNING restarting supervisor failed. Use `bench restart` to retry.
+2023-03-22 11:38:03,127 INFO /usr/local/bin/bench --site zkee.com install-app zkee_custom_app
+2023-03-22 11:38:23,700 INFO /usr/local/bin/bench start
+2023-03-22 11:38:24,136 INFO /usr/local/bin/bench schedule
+2023-03-22 11:38:24,138 INFO /usr/local/bin/bench serve --port 8003
+2023-03-22 11:38:24,154 INFO /usr/local/bin/bench watch
+2023-03-22 11:38:24,164 INFO /usr/local/bin/bench worker
+2023-03-22 13:01:53,170 INFO /usr/local/bin/bench start
+2023-03-22 13:01:53,559 INFO /usr/local/bin/bench worker
+2023-03-22 13:01:53,609 INFO /usr/local/bin/bench serve --port 8003
+2023-03-22 13:01:53,647 INFO /usr/local/bin/bench watch
+2023-03-22 13:01:53,650 INFO /usr/local/bin/bench schedule
+2023-03-22 15:08:37,843 INFO /usr/local/bin/bench start
+2023-03-22 15:08:38,255 INFO /usr/local/bin/bench serve --port 8003
+2023-03-22 15:08:38,314 INFO /usr/local/bin/bench schedule
+2023-03-22 15:08:38,327 INFO /usr/local/bin/bench watch
+2023-03-22 15:08:38,425 INFO /usr/local/bin/bench worker
+2023-03-22 17:37:13,907 INFO /usr/local/bin/bench set-config developer_mode 1
+2023-03-22 17:37:20,128 INFO /usr/local/bin/bench migrate
+2023-03-22 17:39:45,128 INFO /usr/local/bin/bench migrate
+2023-03-22 17:40:01,516 INFO /usr/local/bin/bench set-config developer_mode 1
+2023-03-22 17:41:54,450 INFO /usr/local/bin/bench set-config developer_mode 1
+2023-03-22 17:41:57,126 INFO /usr/local/bin/bench migrate
+2023-03-22 17:43:36,903 INFO /usr/local/bin/bench set-config developer_mode 1
+2023-03-22 17:45:42,530 INFO /usr/local/bin/bench start
+2023-03-22 17:45:43,322 INFO /usr/local/bin/bench serve --port 8003
+2023-03-22 17:45:43,371 INFO /usr/local/bin/bench worker
+2023-03-22 17:45:43,386 INFO /usr/local/bin/bench watch
+2023-03-22 17:45:43,388 INFO /usr/local/bin/bench schedule
+2023-03-22 18:00:02,473 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-22 19:08:25,526 INFO /usr/local/bin/bench start
+2023-03-22 19:08:28,797 INFO /usr/local/bin/bench watch
+2023-03-22 19:08:28,858 INFO /usr/local/bin/bench worker
+2023-03-22 19:08:28,887 INFO /usr/local/bin/bench serve --port 8003
+2023-03-22 19:08:28,894 INFO /usr/local/bin/bench schedule
+2023-03-23 09:59:45,508 INFO /usr/local/bin/bench start
+2023-03-23 09:59:46,246 INFO /usr/local/bin/bench worker
+2023-03-23 09:59:46,264 INFO /usr/local/bin/bench watch
+2023-03-23 09:59:46,351 INFO /usr/local/bin/bench schedule
+2023-03-23 09:59:46,371 INFO /usr/local/bin/bench serve --port 8003
+2023-03-23 11:07:11,991 INFO /usr/local/bin/bench start
+2023-03-23 11:07:12,378 INFO /usr/local/bin/bench watch
+2023-03-23 11:07:12,403 INFO /usr/local/bin/bench schedule
+2023-03-23 11:07:12,462 INFO /usr/local/bin/bench worker
+2023-03-23 11:07:12,476 INFO /usr/local/bin/bench serve --port 8003
+2023-03-23 12:00:01,807 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-23 12:01:06,450 INFO /usr/local/bin/bench start
+2023-03-23 12:01:06,887 INFO /usr/local/bin/bench watch
+2023-03-23 12:01:06,904 INFO /usr/local/bin/bench serve --port 8003
+2023-03-23 12:01:06,905 INFO /usr/local/bin/bench worker
+2023-03-23 12:01:06,918 INFO /usr/local/bin/bench schedule
+2023-03-23 13:03:57,378 INFO /usr/local/bin/bench start
+2023-03-23 13:03:57,918 INFO /usr/local/bin/bench watch
+2023-03-23 13:03:57,965 INFO /usr/local/bin/bench schedule
+2023-03-23 13:03:57,980 INFO /usr/local/bin/bench serve --port 8003
+2023-03-23 13:03:57,996 INFO /usr/local/bin/bench worker
+2023-03-23 18:00:01,531 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-23 18:34:40,906 INFO /usr/local/bin/bench start
+2023-03-23 18:34:41,304 INFO /usr/local/bin/bench serve --port 8003
+2023-03-23 18:34:41,312 INFO /usr/local/bin/bench watch
+2023-03-23 18:34:41,332 INFO /usr/local/bin/bench worker
+2023-03-23 18:34:41,403 INFO /usr/local/bin/bench schedule
+2023-03-24 09:39:40,645 INFO /usr/local/bin/bench start
+2023-03-24 09:39:41,384 INFO /usr/local/bin/bench schedule
+2023-03-24 09:39:41,400 INFO /usr/local/bin/bench watch
+2023-03-24 09:39:41,435 INFO /usr/local/bin/bench serve --port 8003
+2023-03-24 09:39:41,445 INFO /usr/local/bin/bench worker
+2023-03-24 12:00:02,233 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-24 12:00:48,895 INFO /usr/local/bin/bench migrate
+2023-03-24 14:21:50,893 INFO /usr/local/bin/bench start
+2023-03-24 14:21:51,316 INFO /usr/local/bin/bench serve --port 8003
+2023-03-24 14:21:51,322 INFO /usr/local/bin/bench watch
+2023-03-24 14:21:51,380 INFO /usr/local/bin/bench schedule
+2023-03-24 14:21:51,416 INFO /usr/local/bin/bench worker
+2023-03-24 15:45:09,957 INFO /usr/local/bin/bench start
+2023-03-24 15:45:10,368 INFO /usr/local/bin/bench worker
+2023-03-24 15:45:10,421 INFO /usr/local/bin/bench watch
+2023-03-24 15:45:10,443 INFO /usr/local/bin/bench serve --port 8003
+2023-03-24 15:45:10,464 INFO /usr/local/bin/bench schedule
+2023-03-24 18:00:01,762 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-25 00:00:01,981 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-25 06:00:01,769 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-25 12:00:02,591 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-25 18:00:02,075 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-26 00:00:02,864 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-26 06:00:01,998 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-26 12:00:02,253 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-26 18:00:03,280 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-27 00:00:02,091 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-27 06:00:01,470 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-27 12:00:02,210 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-27 18:00:01,500 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-28 00:00:02,416 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-28 06:00:01,510 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-28 10:43:35,115 INFO /usr/local/bin/bench start
+2023-03-28 10:43:35,622 INFO /usr/local/bin/bench worker
+2023-03-28 10:43:35,623 INFO /usr/local/bin/bench serve --port 8003
+2023-03-28 10:43:35,706 INFO /usr/local/bin/bench schedule
+2023-03-28 10:43:35,741 INFO /usr/local/bin/bench watch
+2023-03-28 12:00:02,451 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-28 18:00:02,905 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-28 18:18:45,267 INFO /usr/local/bin/bench start
+2023-03-28 18:18:46,979 INFO /usr/local/bin/bench worker
+2023-03-28 18:18:46,987 INFO /usr/local/bin/bench serve --port 8003
+2023-03-28 18:18:46,992 INFO /usr/local/bin/bench watch
+2023-03-28 18:18:46,992 INFO /usr/local/bin/bench schedule
+2023-03-28 19:21:54,938 INFO /usr/local/bin/bench start
+2023-03-28 19:22:00,973 INFO /usr/local/bin/bench schedule
+2023-03-28 19:22:01,041 INFO /usr/local/bin/bench watch
+2023-03-28 19:22:01,050 INFO /usr/local/bin/bench worker
+2023-03-28 19:22:01,058 INFO /usr/local/bin/bench serve --port 8003
+2023-03-29 00:00:01,873 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-29 06:00:01,623 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-29 10:33:16,545 INFO /usr/local/bin/bench start
+2023-03-29 10:33:16,911 INFO /usr/local/bin/bench watch
+2023-03-29 10:33:16,975 INFO /usr/local/bin/bench serve --port 8003
+2023-03-29 10:33:17,055 INFO /usr/local/bin/bench schedule
+2023-03-29 10:33:17,072 INFO /usr/local/bin/bench worker
+2023-03-29 12:00:01,663 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-29 15:40:00,223 INFO /usr/local/bin/bench start
+2023-03-29 15:42:37,299 INFO /usr/local/bin/bench migrate
+2023-03-29 15:43:00,632 INFO /usr/local/bin/bench migrate
+2023-03-29 15:44:32,676 INFO /usr/local/bin/bench migrate
+2023-03-29 15:45:24,992 INFO /usr/local/bin/bench start
+2023-03-29 15:45:25,458 INFO /usr/local/bin/bench worker
+2023-03-29 15:45:25,483 INFO /usr/local/bin/bench serve --port 8003
+2023-03-29 15:45:25,543 INFO /usr/local/bin/bench watch
+2023-03-29 15:45:25,564 INFO /usr/local/bin/bench schedule
+2023-03-29 15:46:36,357 INFO /usr/local/bin/bench migrate
+2023-03-29 15:47:21,621 INFO /usr/local/bin/bench migrate
+2023-03-29 15:47:50,458 INFO /usr/local/bin/bench migrate
+2023-03-29 15:52:46,210 INFO /usr/local/bin/bench migrate
+2023-03-29 15:53:35,053 INFO /usr/local/bin/bench migrate
+2023-03-29 15:54:12,156 INFO /usr/local/bin/bench migrate
+2023-03-29 15:58:36,545 INFO /usr/local/bin/bench migrate
+2023-03-29 15:59:47,534 INFO /usr/local/bin/bench migrate
+2023-03-29 16:15:12,508 INFO /usr/local/bin/bench migrate
+2023-03-29 16:41:14,411 INFO /usr/local/bin/bench migrate
+2023-03-29 17:02:53,363 INFO /usr/local/bin/bench migrate
+2023-03-29 17:03:11,510 INFO /usr/local/bin/bench migrate
+2023-03-29 17:20:15,265 INFO /usr/local/bin/bench migrate
+2023-03-29 17:23:37,527 INFO /usr/local/bin/bench migrate
+2023-03-29 17:40:20,607 INFO /usr/local/bin/bench migrate
+2023-03-29 18:00:02,309 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-29 18:27:04,598 INFO /usr/local/bin/bench start
+2023-03-29 18:35:17,943 INFO /usr/local/bin/bench migrate
+2023-03-29 18:41:14,706 INFO /usr/local/bin/bench migrate
+2023-03-30 10:07:50,373 INFO /usr/local/bin/bench start
+2023-03-30 10:07:51,399 INFO /usr/local/bin/bench schedule
+2023-03-30 10:07:51,438 INFO /usr/local/bin/bench watch
+2023-03-30 10:07:51,499 INFO /usr/local/bin/bench serve --port 8003
+2023-03-30 10:07:51,524 INFO /usr/local/bin/bench worker
+2023-03-30 10:46:23,531 INFO /usr/local/bin/bench migrate
+2023-03-30 10:48:36,140 INFO /usr/local/bin/bench migrate
+2023-03-30 11:28:33,168 INFO /usr/local/bin/bench clear-cache
+2023-03-30 12:00:01,311 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-30 13:06:32,919 INFO /usr/local/bin/bench start
+2023-03-30 13:06:33,391 INFO /usr/local/bin/bench serve --port 8003
+2023-03-30 13:06:33,421 INFO /usr/local/bin/bench worker
+2023-03-30 13:06:33,422 INFO /usr/local/bin/bench schedule
+2023-03-30 13:06:33,495 INFO /usr/local/bin/bench watch
+2023-03-30 13:15:11,888 INFO /usr/local/bin/bench migrate
+2023-03-30 13:16:29,895 INFO /usr/local/bin/bench migrate
+2023-03-30 13:16:54,962 INFO /usr/local/bin/bench migrate
+2023-03-30 18:00:02,114 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-30 18:43:46,727 INFO /usr/local/bin/bench migrate
+2023-03-30 19:14:24,355 INFO /usr/local/bin/bench start
+2023-03-30 19:14:25,509 INFO /usr/local/bin/bench worker
+2023-03-30 19:14:25,535 INFO /usr/local/bin/bench schedule
+2023-03-30 19:14:25,549 INFO /usr/local/bin/bench serve --port 8003
+2023-03-30 19:14:25,565 INFO /usr/local/bin/bench watch
+2023-03-31 09:55:47,769 INFO /usr/local/bin/bench start
+2023-03-31 09:55:48,648 INFO /usr/local/bin/bench serve --port 8003
+2023-03-31 09:55:48,725 INFO /usr/local/bin/bench schedule
+2023-03-31 09:55:48,751 INFO /usr/local/bin/bench worker
+2023-03-31 09:55:48,754 INFO /usr/local/bin/bench watch
+2023-03-31 09:58:08,302 INFO /usr/local/bin/bench clear-cache
+2023-03-31 12:00:02,242 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-31 18:00:01,992 INFO /usr/local/bin/bench --verbose --site all backup
+2023-04-03 09:52:16,089 INFO /usr/local/bin/bench start
+2023-04-03 09:52:16,929 INFO /usr/local/bin/bench schedule
+2023-04-03 09:52:16,950 INFO /usr/local/bin/bench worker
+2023-04-03 09:52:16,999 INFO /usr/local/bin/bench watch
+2023-04-03 09:52:17,039 INFO /usr/local/bin/bench serve --port 8003
+2023-04-03 12:00:01,688 INFO /usr/local/bin/bench --verbose --site all backup
+2023-04-03 17:11:27,123 INFO /usr/local/bin/bench clear-cache
+2023-04-03 18:00:02,007 INFO /usr/local/bin/bench --verbose --site all backup
+2023-04-04 09:51:01,619 INFO /usr/local/bin/bench start
+2023-04-04 09:51:02,393 INFO /usr/local/bin/bench worker
+2023-04-04 09:51:02,450 INFO /usr/local/bin/bench serve --port 8003
+2023-04-04 09:51:02,454 INFO /usr/local/bin/bench schedule
+2023-04-04 09:51:02,488 INFO /usr/local/bin/bench watch
+2023-04-04 12:00:01,673 INFO /usr/local/bin/bench --verbose --site all backup
+2023-04-04 13:02:21,877 INFO /usr/local/bin/bench clear-cache
+2023-04-04 14:59:57,466 INFO /usr/local/bin/bench clear-cache
+2023-04-04 16:58:47,902 INFO /usr/local/bin/bench clear-cache
+2023-04-04 16:58:50,812 INFO /usr/local/bin/bench clear-cache
+2023-04-04 16:59:41,894 INFO /usr/local/bin/bench migrate
+2023-04-04 17:00:43,242 INFO /usr/local/bin/bench migrate
+2023-04-04 17:01:44,774 INFO /usr/local/bin/bench clear-cache
+2023-04-04 17:01:52,022 INFO /usr/local/bin/bench restart
+2023-04-04 17:02:19,316 WARNING /usr/local/bin/bench restart executed with exit code 1
+2023-04-04 17:02:24,614 INFO /usr/local/bin/bench migrate
+2023-04-04 18:00:02,182 INFO /usr/local/bin/bench --verbose --site all backup
+2023-04-04 18:21:07,628 INFO /usr/local/bin/bench build
+2023-04-05 11:07:27,752 INFO /usr/local/bin/bench start
+2023-04-05 11:07:31,926 INFO /usr/local/bin/bench watch
+2023-04-05 11:07:32,614 INFO /usr/local/bin/bench serve --port 8003
+2023-04-05 11:07:32,614 INFO /usr/local/bin/bench worker
+2023-04-05 11:07:32,635 INFO /usr/local/bin/bench schedule
+2023-04-05 11:36:31,516 INFO /usr/local/bin/bench start
+2023-04-05 11:36:33,119 INFO /usr/local/bin/bench watch
+2023-04-05 11:36:33,132 INFO /usr/local/bin/bench worker
+2023-04-05 11:36:33,153 INFO /usr/local/bin/bench schedule
+2023-04-05 11:36:33,175 INFO /usr/local/bin/bench serve --port 8003
+2023-04-05 12:00:01,629 INFO /usr/local/bin/bench --verbose --site all backup
+2023-04-05 12:19:38,336 INFO /usr/local/bin/bench clear-cache
+2023-04-05 12:22:15,412 INFO /usr/local/bin/bench clear-cache
+2023-04-05 12:28:31,793 INFO /usr/local/bin/bench migrate
+2023-04-05 15:03:27,847 INFO /usr/local/bin/bench start
+2023-04-05 15:03:29,691 INFO /usr/local/bin/bench schedule
+2023-04-05 15:03:29,698 INFO /usr/local/bin/bench serve --port 8003
+2023-04-05 15:03:29,710 INFO /usr/local/bin/bench worker
+2023-04-05 15:03:29,764 INFO /usr/local/bin/bench watch
+2023-04-05 17:05:08,395 INFO /usr/local/bin/bench clear-cahe
+2023-04-05 17:05:14,804 INFO /usr/local/bin/bench clear-cache
+2023-04-05 18:00:01,366 INFO /usr/local/bin/bench --verbose --site all backup
+2023-04-06 10:03:15,425 INFO /usr/local/bin/bench start
+2023-04-06 10:03:16,065 INFO /usr/local/bin/bench watch
+2023-04-06 10:03:16,123 INFO /usr/local/bin/bench serve --port 8003
+2023-04-06 10:03:16,172 INFO /usr/local/bin/bench schedule
+2023-04-06 10:03:16,220 INFO /usr/local/bin/bench worker
+2023-04-06 12:00:01,861 INFO /usr/local/bin/bench --verbose --site all backup
+2023-04-06 13:01:30,179 INFO /usr/local/bin/bench start
+2023-04-06 13:01:30,562 INFO /usr/local/bin/bench worker
+2023-04-06 13:01:30,610 INFO /usr/local/bin/bench watch
+2023-04-06 13:01:30,668 INFO /usr/local/bin/bench schedule
+2023-04-06 13:01:30,703 INFO /usr/local/bin/bench serve --port 8003

@@ -1,0 +1,10 @@
+2023-04-04 13:20:19,924 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 13:20:20,107 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for zkee.com
+2023-04-04 13:20:20,168 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 13:20:20,390 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for zkee.com
+2023-04-04 13:20:20,455 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 13:20:20,671 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for zkee.com
+2023-04-04 13:20:20,738 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 13:20:20,986 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for zkee.com
+2023-04-04 13:20:21,050 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for zkee.com
+2023-04-04 13:20:21,222 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for zkee.com
